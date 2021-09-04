@@ -40,3 +40,8 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the EncodingIroha project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/encoding_iroha/blob/main/CODE_OF_CONDUCT.md).
+
+## Acknowledgements
+
+- I have copied some files from https://github.com/ruby/ruby to call private API.
+- @osyo-manga
